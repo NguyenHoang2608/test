@@ -1,0 +1,28 @@
+img{
+    width: 20px;
+    height: 20px;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.main{
+    display: flex;
+}
+.container{
+    display: flex;
+    margin-top: 5px;
+}
+.container1{
+    width: 70px;
+    height: 20px;
+    border: 1px solid black;
+    text-align: center;
+    margin-left: 3px;
+    cursor: pointer;
+}
+.container1:hover{
+    background-color: black;
+    color: white;
+}
+.title{
+    
+}
